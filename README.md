@@ -20,6 +20,34 @@ I decided to spice things up however though, so I added a color scheme to mine s
 
 <img align="center" src="https://i.imgur.com/nZAaSVF.jpg">
 
+
+
+
+
 ## Usage
 
+If you want to zoom in/change the color/perform other commands, I suggest you do it with the command line support I implemented instead of manually changing the code yourself.
 
+In order to do this, navigate to the folder (using the command line) that contains all the files you downloaded from this repo, and first type in:
+
+```shell
+javac Homework_4.java
+```
+
+to compile the runner file.
+
+For the commands the syntax is as follows:
+
+```shell
+java Homework_4 -setting value
+```
+
+for example if I wanted to change the height of the screen to 1080, I would type in
+
+```shell
+java Homework_4 -height 1080
+```
+
+Here's a full list of supported command line arguments:
+
+<img src="https://i.imgur.com/JXht7EE.jpg">
