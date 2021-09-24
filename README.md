@@ -19,3 +19,7 @@ All we then have to do is plot the point on the screen using Canvas if it is in 
 I decided to spice things up however though, so I added a color scheme to mine so it looked cooler
 
 <img align="center" src="https://i.imgur.com/nZAaSVF.jpg">
+
+## Usage
+
+
